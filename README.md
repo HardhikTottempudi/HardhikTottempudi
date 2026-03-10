@@ -66,9 +66,7 @@ I'm a passionate developer who loves building innovative solutions that solve re
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HardhikTottempudi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardhikTottempudi&layout=compact&theme=radical&hide_border=true)
+
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HardhikTottempudi&theme=radical&hide_border=true)
 
